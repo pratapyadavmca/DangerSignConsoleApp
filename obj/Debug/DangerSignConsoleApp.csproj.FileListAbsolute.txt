@@ -1,0 +1,8 @@
+C:\Users\DELL\source\repos\DangerSignConsoleApp\bin\Debug\DangerSignConsoleApp.exe.config
+C:\Users\DELL\source\repos\DangerSignConsoleApp\bin\Debug\DangerSignConsoleApp.exe
+C:\Users\DELL\source\repos\DangerSignConsoleApp\bin\Debug\DangerSignConsoleApp.pdb
+C:\Users\DELL\source\repos\DangerSignConsoleApp\obj\Debug\DangerSignConsoleApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DangerSignConsoleApp\obj\Debug\DangerSignConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\DangerSignConsoleApp\obj\Debug\DangerSignConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DangerSignConsoleApp\obj\Debug\DangerSignConsoleApp.exe
+C:\Users\DELL\source\repos\DangerSignConsoleApp\obj\Debug\DangerSignConsoleApp.pdb
